@@ -1,0 +1,2 @@
+Put .* everywhere
+win.dispose() not called in compStatus and compReport, potentially causing excess windows.
